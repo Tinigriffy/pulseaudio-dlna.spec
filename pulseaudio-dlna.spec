@@ -32,11 +32,12 @@ Requires:	python3-requests
 Requires:	python3-setproctitle
 Requires:	python3-protobuf
 Requires:	python3-notify2
-Requires:   python3-psutil
-Requires:   python3-chardet
-Requires:   python3-zeroconf
-Requires:   python3-netifaces
-Requires:   python3-pyroute2
+Requires:   	python3-psutil
+Requires:   	python3-chardet
+Requires:   	python3-zeroconf
+Requires:   	python3-netifaces
+Requires:   	python3-pyroute2
+Requires:   	python3-futures
 Requires:	python3-lxml
 Requires:	sox
 Requires:	lame
