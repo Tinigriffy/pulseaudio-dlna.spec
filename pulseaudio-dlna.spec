@@ -31,7 +31,7 @@ Requires: 	python3-docopt
 Requires:	python3-requests
 Requires:	python3-setproctitle
 Requires:	python3-protobuf
-Requires:	python2-notify2
+Requires:	python3-notify2
 Requires:   python3-psutil
 Requires:   python3-chardet
 Requires:   python3-zeroconf
