@@ -1,4 +1,4 @@
-%global commit f9d73c628de9a4db373d56e7cca40df1a2721c61
+%global commit 265795b1769e92556e8d5392abdb00febaa81ad4
 %global gittag GIT-TAG
 %global shortcommit %(c=%{commit}; echo ${c:0:7})
 
