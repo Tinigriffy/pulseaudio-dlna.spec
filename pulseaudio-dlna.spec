@@ -1,11 +1,11 @@
-%define owner Tinigriffy
-%define name pulseaudio-dlna
-%define version 0.5.2
-%define release 1
-
 %global commit 11fbe0be307ef94ff77606712dd075379ae89c21
 %global gittag GIT-TAG
 %global shortcommit %(c=%{commit}; echo ${c:0:7})
+
+%define owner Tinigriffy
+%define name pulseaudio-dlna
+%define version 0.5.2
+%define release %{shortcommit}
 
 Summary: A small DLNA server which brings DLNA / UPNP supportto PulseAudio and Linux.
 Name: %{name}
