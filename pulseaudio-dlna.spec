@@ -1,4 +1,4 @@
-%global commit 11fbe0be307ef94ff77606712dd075379ae89c21
+%global commit f9d73c628de9a4db373d56e7cca40df1a2721c61
 %global gittag GIT-TAG
 %global shortcommit %(c=%{commit}; echo ${c:0:7})
 
@@ -37,7 +37,6 @@ Requires:   	python3-chardet
 Requires:   	python3-zeroconf
 Requires:   	python3-netifaces
 Requires:   	python3-pyroute2
-Requires:   	python3-future
 Requires:	python3-lxml
 Requires:	sox
 Requires:	lame
