@@ -3,7 +3,7 @@
 %define version 0.5.2
 %define release 1
 
-%global commit bab75025ed71f3b443104ee67add16a81f4ce31a
+%global commit 11fbe0be307ef94ff77606712dd075379ae89c21
 %global gittag GIT-TAG
 %global shortcommit %(c=%{commit}; echo ${c:0:7})
 
