@@ -37,7 +37,7 @@ Requires:   	python3-chardet
 Requires:   	python3-zeroconf
 Requires:   	python3-netifaces
 Requires:   	python3-pyroute2
-Requires:   	python3-futures
+Requires:   	python3-future
 Requires:	python3-lxml
 Requires:	sox
 Requires:	lame
