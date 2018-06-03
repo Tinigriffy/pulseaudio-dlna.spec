@@ -55,7 +55,7 @@ Original project:
 https://github.com/masmu/pulseaudio-dlna
 
 %prep
-%autosetup -n %{name}-%{commit}
+%autosetup -n %{name}-%{gittag}
 
 %build
 %py3_build
