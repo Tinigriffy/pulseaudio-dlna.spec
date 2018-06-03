@@ -38,6 +38,7 @@ Requires:   	python3-zeroconf
 Requires:   	python3-netifaces
 Requires:   	python3-pyroute2
 Requires:	python3-lxml
+Requires:	python3-future
 Requires:	sox
 Requires:	lame
 Requires:	flac
