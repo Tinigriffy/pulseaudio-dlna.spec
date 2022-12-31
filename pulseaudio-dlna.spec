@@ -1,10 +1,10 @@
-%global commit e1bbbe39d21f9a01752bb208e741becdc659171c
-%global gittag 0.5.2-py3-0.3
+%global commit 10bc454b958ae58d316114e1f3a0cbb8eac26161
+%global gittag 0.5.2-py3-0.4
 %global shortcommit %(c=%{commit}; echo ${c:0:7})
 
 %define owner Tinigriffy
 %define name pulseaudio-dlna
-%define version 0.5.2.py3.0.3
+%define version 0.5.2.py3.0.4
 %define release %{shortcommit}
 
 Summary: A small DLNA server which brings DLNA / UPNP supportto PulseAudio and Linux.
