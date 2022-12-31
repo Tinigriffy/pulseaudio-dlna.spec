@@ -4,7 +4,7 @@
 
 %define owner Tinigriffy
 %define name pulseaudio-dlna
-%define version 0.5.2.py3-0.4
+%define version 0.5.2.py3.0.4
 %define release %{shortcommit}
 
 Summary: A small DLNA server which brings DLNA / UPNP supportto PulseAudio and Linux.
